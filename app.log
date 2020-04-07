@@ -1,0 +1,51 @@
+2020-04-07 11:53:25,055 INFO c.u.e.EmployeeManagementApplication [main] Starting EmployeeManagementApplication on daffolap966-ThinkPad-L490 with PID 14041 (/home/daffolap-966/IdeaProjects/employeeManagement/target/classes started by daffolap-966 in /home/daffolap-966/IdeaProjects/employeeManagement)
+2020-04-07 11:53:25,069 INFO c.u.e.EmployeeManagementApplication [main] The following profiles are active: development
+2020-04-07 11:53:29,362 INFO c.u.e.EmployeeManagementApplication [main] Started EmployeeManagementApplication in 4.895 seconds (JVM running for 5.985)
+2020-04-07 12:03:45,632 INFO c.u.e.EmployeeManagementApplication [main] Starting EmployeeManagementApplication on daffolap966-ThinkPad-L490 with PID 14635 (/home/daffolap-966/IdeaProjects/employeeManagement/target/classes started by daffolap-966 in /home/daffolap-966/IdeaProjects/employeeManagement)
+2020-04-07 12:03:45,642 INFO c.u.e.EmployeeManagementApplication [main] The following profiles are active: development
+2020-04-07 12:03:50,564 INFO c.u.e.EmployeeManagementApplication [main] Started EmployeeManagementApplication in 5.445 seconds (JVM running for 6.575)
+2020-04-07 12:07:01,358 INFO c.u.e.EmployeeManagementApplication [main] Starting EmployeeManagementApplication on daffolap966-ThinkPad-L490 with PID 14972 (/home/daffolap-966/IdeaProjects/employeeManagement/target/classes started by daffolap-966 in /home/daffolap-966/IdeaProjects/employeeManagement)
+2020-04-07 12:07:01,380 INFO c.u.e.EmployeeManagementApplication [main] The following profiles are active: development
+2020-04-07 12:07:06,796 INFO c.u.e.EmployeeManagementApplication [main] Started EmployeeManagementApplication in 5.969 seconds (JVM running for 7.089)
+2020-04-07 12:08:32,652 INFO c.u.e.EmployeeManagementApplication [main] Starting EmployeeManagementApplication on daffolap966-ThinkPad-L490 with PID 15154 (/home/daffolap-966/IdeaProjects/employeeManagement/target/classes started by daffolap-966 in /home/daffolap-966/IdeaProjects/employeeManagement)
+2020-04-07 12:08:32,665 INFO c.u.e.EmployeeManagementApplication [main] The following profiles are active: development
+2020-04-07 12:08:37,177 INFO c.u.e.EmployeeManagementApplication [main] Started EmployeeManagementApplication in 5.08 seconds (JVM running for 6.216)
+2020-04-07 12:08:52,337 INFO c.u.e.EmployeeManagementApplication [main] Starting EmployeeManagementApplication on daffolap966-ThinkPad-L490 with PID 15236 (/home/daffolap-966/IdeaProjects/employeeManagement/target/classes started by daffolap-966 in /home/daffolap-966/IdeaProjects/employeeManagement)
+2020-04-07 12:08:52,346 INFO c.u.e.EmployeeManagementApplication [main] The following profiles are active: development
+2020-04-07 12:08:57,302 INFO c.u.e.EmployeeManagementApplication [main] Started EmployeeManagementApplication in 5.539 seconds (JVM running for 6.701)
+2020-04-07 12:10:22,338 INFO c.u.e.EmployeeManagementApplication [main] Starting EmployeeManagementApplication on daffolap966-ThinkPad-L490 with PID 15365 (/home/daffolap-966/IdeaProjects/employeeManagement/target/classes started by daffolap-966 in /home/daffolap-966/IdeaProjects/employeeManagement)
+2020-04-07 12:10:22,349 INFO c.u.e.EmployeeManagementApplication [main] The following profiles are active: development
+2020-04-07 12:10:26,646 INFO c.u.e.EmployeeManagementApplication [main] Started EmployeeManagementApplication in 4.865 seconds (JVM running for 6.027)
+2020-04-07 12:24:45,257 INFO c.u.e.EmployeeManagementApplication [main] Starting EmployeeManagementApplication on daffolap966-ThinkPad-L490 with PID 15715 (/home/daffolap-966/IdeaProjects/employeeManagement/target/classes started by daffolap-966 in /home/daffolap-966/IdeaProjects/employeeManagement)
+2020-04-07 12:24:45,265 INFO c.u.e.EmployeeManagementApplication [main] The following profiles are active: development
+2020-04-07 12:24:49,626 INFO c.u.e.EmployeeManagementApplication [main] Started EmployeeManagementApplication in 5.111 seconds (JVM running for 6.434)
+2020-04-07 12:30:24,346 INFO c.u.e.EmployeeManagementApplication [main] Starting EmployeeManagementApplication on daffolap966-ThinkPad-L490 with PID 15994 (/home/daffolap-966/IdeaProjects/employeeManagement/target/classes started by daffolap-966 in /home/daffolap-966/IdeaProjects/employeeManagement)
+2020-04-07 12:30:24,359 INFO c.u.e.EmployeeManagementApplication [main] The following profiles are active: development
+2020-04-07 12:30:28,464 INFO c.u.e.EmployeeManagementApplication [main] Started EmployeeManagementApplication in 4.74 seconds (JVM running for 5.826)
+2020-04-07 12:30:36,111 INFO c.u.e.EmployeeManagementApplication [main] Starting EmployeeManagementApplication on daffolap966-ThinkPad-L490 with PID 16077 (/home/daffolap-966/IdeaProjects/employeeManagement/target/classes started by daffolap-966 in /home/daffolap-966/IdeaProjects/employeeManagement)
+2020-04-07 12:30:36,130 INFO c.u.e.EmployeeManagementApplication [main] The following profiles are active: development
+2020-04-07 12:30:40,474 INFO c.u.e.EmployeeManagementApplication [main] Started EmployeeManagementApplication in 4.859 seconds (JVM running for 5.937)
+2020-04-07 12:32:49,243 INFO c.u.e.EmployeeManagementApplication [main] Starting EmployeeManagementApplication on daffolap966-ThinkPad-L490 with PID 16241 (/home/daffolap-966/IdeaProjects/employeeManagement/target/classes started by daffolap-966 in /home/daffolap-966/IdeaProjects/employeeManagement)
+2020-04-07 12:32:49,256 INFO c.u.e.EmployeeManagementApplication [main] The following profiles are active: development
+2020-04-07 12:32:53,867 INFO c.u.e.EmployeeManagementApplication [main] Started EmployeeManagementApplication in 5.232 seconds (JVM running for 6.235)
+2020-04-07 12:35:24,052 INFO c.u.e.EmployeeManagementApplication [main] Starting EmployeeManagementApplication on daffolap966-ThinkPad-L490 with PID 16533 (/home/daffolap-966/IdeaProjects/employeeManagement/target/classes started by daffolap-966 in /home/daffolap-966/IdeaProjects/employeeManagement)
+2020-04-07 12:35:24,067 INFO c.u.e.EmployeeManagementApplication [main] The following profiles are active: development
+2020-04-07 12:35:29,219 INFO c.u.e.EmployeeManagementApplication [main] Started EmployeeManagementApplication in 5.847 seconds (JVM running for 7.014)
+2020-04-07 12:39:33,562 INFO c.u.e.EmployeeManagementApplication [main] Starting EmployeeManagementApplication on daffolap966-ThinkPad-L490 with PID 16983 (/home/daffolap-966/IdeaProjects/employeeManagement/target/classes started by daffolap-966 in /home/daffolap-966/IdeaProjects/employeeManagement)
+2020-04-07 12:39:33,574 INFO c.u.e.EmployeeManagementApplication [main] The following profiles are active: development
+2020-04-07 12:39:37,800 INFO c.u.e.EmployeeManagementApplication [main] Started EmployeeManagementApplication in 4.821 seconds (JVM running for 5.963)
+2020-04-07 12:40:36,519 INFO c.u.e.EmployeeManagementApplication [main] Starting EmployeeManagementApplication on daffolap966-ThinkPad-L490 with PID 17116 (/home/daffolap-966/IdeaProjects/employeeManagement/target/classes started by daffolap-966 in /home/daffolap-966/IdeaProjects/employeeManagement)
+2020-04-07 12:40:36,528 INFO c.u.e.EmployeeManagementApplication [main] The following profiles are active: development
+2020-04-07 12:40:41,029 INFO c.u.e.EmployeeManagementApplication [main] Started EmployeeManagementApplication in 5.007 seconds (JVM running for 6.184)
+2020-04-07 12:40:56,218 INFO c.u.e.a.DepartmentController [http-nio-8080-exec-8] Adding Department
+2020-04-07 12:41:11,658 INFO c.u.e.a.DepartmentController [http-nio-8080-exec-9] Adding Department
+2020-04-07 12:41:30,429 INFO c.u.e.a.DepartmentController [http-nio-8080-exec-10] Adding Department
+2020-04-07 12:41:52,963 INFO c.u.e.a.EmployeeController [http-nio-8080-exec-3] Adding a new Employee
+2020-04-07 12:42:20,015 INFO c.u.e.a.EmployeeController [http-nio-8080-exec-5] Adding a new Employee
+2020-04-07 12:42:39,516 INFO c.u.e.a.EmployeeController [http-nio-8080-exec-6] Adding a new Employee
+2020-04-07 12:43:02,652 INFO c.u.e.a.EmployeeController [http-nio-8080-exec-4] Adding a new Employee
+2020-04-07 12:43:13,347 INFO c.u.e.a.EmployeeController [http-nio-8080-exec-7] Getting all Employees
+2020-04-07 12:43:24,709 INFO c.u.e.a.EmployeeController [http-nio-8080-exec-9] Getting all Employees
+2020-04-07 12:43:32,271 INFO c.u.e.a.DepartmentController [http-nio-8080-exec-10] Getting all Departments
+2020-04-07 12:46:27,233 INFO c.u.e.a.EmployeeController [http-nio-8080-exec-10] Updating Employee with id : 3
+2020-04-07 12:47:03,654 INFO c.u.e.a.EmployeeController [http-nio-8080-exec-6] Deleting Employees with id : 3

@@ -1,0 +1,35 @@
+spring:
+  main:
+    lazy-initialization: true
+
+  profiles:
+    active: development
+
+  # Internal Database
+  datasource:
+    url: jdbc:h2:mem:testdb
+    driverClassName: org.h2.Driver
+    username: prateek
+    password: prateek
+
+  h2:
+    console:
+      enabled: true
+      path: /h2
+
+    #Extenal Database
+    #initialization-mode: always
+    #platform: postgres
+    #url: jdbc:postgresql://127.0.0.1:5432/employeeManagement
+    #username: prateek
+    #password: prateek
+
+  # JPA properties
+  jpa:
+    database-platform: org.hibernate.dialect.H2Dialect
+    hibernate:
+      ddl-auto: update # When you launch the application for the first time - switch "none" at "create"
+    show-sql: true
+
+server:
+  port: 8080 #set your port
